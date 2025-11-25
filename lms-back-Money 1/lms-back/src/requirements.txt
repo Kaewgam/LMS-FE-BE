@@ -1,0 +1,17 @@
+django
+psycopg[binary]
+gunicorn
+dj-rest-auth[with_social]
+django-allauth<0.55
+django-cors-headers
+djangorestframework
+djangorestframework-simplejwt
+pillow
+channels
+daphne
+whitenoise[brotli]
+requests
+drf-spectacular
+django-filter
+google-auth
+python-dotenv
